@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>trí khoai to Blog</title>
+        <title>minhtri.fit Blog</title>
         <link>https://minhtrifit.github.io/</link>
-        <description>Recent content on trí khoai to Blog</description>
+        <description>Recent content on minhtri.fit Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Thu, 26 Aug 2021 23:34:43 +0700</lastBuildDate><atom:link href="https://minhtrifit.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
