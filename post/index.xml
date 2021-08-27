@@ -6,23 +6,15 @@
     <description>Recent content in Posts on minhtri.fit Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Aug 2021 23:34:43 +0700</lastBuildDate><atom:link href="https://minhtrifit.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Aug 2020 01:00:00 +0200</lastBuildDate><atom:link href="https://minhtrifit.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First_blog</title>
-      <link>https://minhtrifit.github.io/p/first_blog/</link>
-      <pubDate>Thu, 26 Aug 2021 23:34:43 +0700</pubDate>
+      <title>Test Blog</title>
+      <link>https://minhtrifit.github.io/p/example-post/</link>
+      <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
       
-      <guid>https://minhtrifit.github.io/p/first_blog/</guid>
-      <description>Đây là blog đầu tiên :&amp;gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://minhtrifit.github.io/p/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://minhtrifit.github.io/p/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <guid>https://minhtrifit.github.io/p/example-post/</guid>
+      <description>Đây là ảnh của mình :DD  
+test blog 123&amp;hellip;.</description>
     </item>
     
   </channel>

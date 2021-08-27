@@ -6,14 +6,15 @@
     <description>Recent content in text on minhtri.fit Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://minhtrifit.github.io/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Aug 2020 01:00:00 +0200</lastBuildDate><atom:link href="https://minhtrifit.github.io/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Placeholder Text</title>
-      <link>https://minhtrifit.github.io/p/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Test Blog</title>
+      <link>https://minhtrifit.github.io/p/example-post/</link>
+      <pubDate>Mon, 10 Aug 2020 01:00:00 +0200</pubDate>
       
-      <guid>https://minhtrifit.github.io/p/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <guid>https://minhtrifit.github.io/p/example-post/</guid>
+      <description>Đây là ảnh của mình :DD  
+test blog 123&amp;hellip;.</description>
     </item>
     
   </channel>
