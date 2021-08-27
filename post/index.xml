@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on minhtri.fit Blog</title>
-    <link>https://example.com/post/</link>
+    <link>https://minhtrifit.github.io/post/</link>
     <description>Recent content in Posts on minhtri.fit Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Aug 2021 23:34:43 +0700</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 23:34:43 +0700</lastBuildDate><atom:link href="https://minhtrifit.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First_blog</title>
-      <link>https://example.com/p/first_blog/</link>
+      <link>https://minhtrifit.github.io/p/first_blog/</link>
       <pubDate>Thu, 26 Aug 2021 23:34:43 +0700</pubDate>
       
-      <guid>https://example.com/p/first_blog/</guid>
+      <guid>https://minhtrifit.github.io/p/first_blog/</guid>
       <description>Đây là blog đầu tiên :&amp;gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://example.com/p/placeholder-text/</link>
+      <link>https://minhtrifit.github.io/p/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/p/placeholder-text/</guid>
+      <guid>https://minhtrifit.github.io/p/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
