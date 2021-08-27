@@ -8,14 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://minhtrifit.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://minhtrifit.github.io/about/</link>
+      <title>About Me</title>
+      <link>https://minhtrifit.github.io/about-me/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://minhtrifit.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-image = &amp;ldquo;matt-le-SJSpo9hQf7s-unsplash.jpg&amp;rdquo; ĐÂY LÀ MÌNH :D
-Hugo makes use of a variety of open source projects including:</description>
+      <guid>https://minhtrifit.github.io/about-me/</guid>
+      <description>LỜI NÓI ĐẦU: Nếu bạn đến blog này thì chắc bạn cũng đã biết một ít thông tin về mình rồi nhỉ. Nhưng mục này mình sẽ chia sẻ thêm với bạn vì sao mình tạo nên blog này nhé :D.
+NƠI BẮT ĐẦU: Tại thời điểm blog này được tạo ra thì mình cũng gần tròn 20 tuổi (thật ra lúc đang viết mục này vẫn đang 19 :&amp;gt;). Đây là độ tuổi không chỉ mình mà có thể là bạn đã đi qua một phần nào cung bậc cảm xúc trong cuộc sống và cụ thể hiện tại mình đang trên đường xây dựng công việc và định hướng tương lai, nên đây sẽ là nơi mình lưu lại những kinh nghiệm, suy nghĩ của mình về học tập, công việc, cuộc sống ở hiện tại và có thể là&amp;hellip; sau này.</description>
     </item>
     
     <item>

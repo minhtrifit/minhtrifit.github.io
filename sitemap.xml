@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minhtrifit.github.io/about/</loc>
+    <loc>https://minhtrifit.github.io/about-me/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://minhtrifit.github.io/</loc>
@@ -17,7 +17,7 @@
     <loc>https://minhtrifit.github.io/tags/</loc>
     <lastmod>2020-08-10T01:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://minhtrifit.github.io/p/example-post/</loc>
+    <loc>https://minhtrifit.github.io/p/test-blog/</loc>
     <lastmod>2020-08-10T01:00:00+02:00</lastmod>
   </url><url>
     <loc>https://minhtrifit.github.io/tags/text/</loc>
